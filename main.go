@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/go-chi/chi"
-	"github.com/pragmader/security-nightmare/server"
+	"github.com/rdner/security-nightmare/server"
 )
 
 const (

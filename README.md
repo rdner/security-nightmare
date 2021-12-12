@@ -17,7 +17,7 @@ Then to start shooting your legs is simple as:
 ```bash
 mkdir -p $GOPATH/src/github.com
 cd $GOPATH/src/github.com
-git clone git@github.com:pragmader/security-nightmare.git
+git clone git@github.com:rdner/security-nightmare.git
 cd security-nightmare
 make run
 ```
